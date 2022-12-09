@@ -14,3 +14,14 @@ def SquareValue(v):
 
 #Start of my code
 
+totalSales = {}
+
+
+def ProcessData()
+   f = open("demofile.txt", "r")
+   for x in f:
+       if (totalSales.)
+
+   f.close()
+
+def GetAmount():
