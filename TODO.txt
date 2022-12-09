@@ -1,0 +1,52 @@
+TODO
+Inputs
+	1: C++ call python and get amount by number
+	
+	2: Get a specific item and C++ call python and get amount for that spefic item
+	
+	3: C++ call python to read a file and get amount by number and write the results into a 
+	   text file. Then have C++ read the created text file and display the results as a histograph
+
+	
+Global
+	C++
+		Make input menu
+		Get user input	
+		Validate user input
+		Pass inputs to Python handlers
+
+	Python
+		Read from file and get amounts
+		
+
+
+Option 1
+	C++
+	
+
+	Python
+		Parse through and return results of amount by number
+
+
+
+
+
+Option 2
+	C++
+		Get string for search and pass to Python 
+
+	Python
+		Get amount by string (Specfic item)
+
+
+
+
+
+Option 3
+	C++
+		Read from file created by Python	
+		Get amount total from file and display infographic.
+
+	Python
+		Write into file for C++ to read from
+	
