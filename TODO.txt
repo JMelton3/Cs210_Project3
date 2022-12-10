@@ -10,14 +10,8 @@ Inputs
 	
 Global
 	C++
-		Make input menu
-		Get user input	
-		Validate user input
-		Pass inputs to Python handlers
-
 	Python
-		Read from file and get amounts
-		
+
 
 
 Option 1
@@ -25,7 +19,7 @@ Option 1
 	
 
 	Python
-		Parse through and return results of amount by number
+
 
 
 
@@ -33,10 +27,9 @@ Option 1
 
 Option 2
 	C++
-		Get string for search and pass to Python 
 
 	Python
-		Get amount by string (Specfic item)
+
 
 
 
@@ -44,9 +37,7 @@ Option 2
 
 Option 3
 	C++
-		Read from file created by Python	
-		Get amount total from file and display infographic.
+
 
 	Python
-		Write into file for C++ to read from
-	
+
